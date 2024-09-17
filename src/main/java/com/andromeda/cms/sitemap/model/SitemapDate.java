@@ -4,10 +4,11 @@ import java.util.Date;
 
 import com.andromeda.commons.model.BaseModel;
 
-public class CJSitemapDate extends BaseModel{
+public class SitemapDate extends BaseModel
+{
 	Date date;
 
-	public CJSitemapDate(Date date) {
+	public SitemapDate(Date date) {
 		super();
 		this.date = date;
 	}
