@@ -33,20 +33,12 @@ public class StrapiConstants {
 	public static final String STRAPI_MODEL_PHOTOGALLERY = "Photogallery";
 	public static final String STRAPI_MODEL_HOROSCOPE = "Horoscope";
 	public static final String STRAPI_MODEL_HOMEPAGEAD = "homepage-ad";
-	
-	// Strapi Election  Vote Model Objects
-	public static final String STRAPI_MODEL_MEGHALAYA_ELECTION_VOTE = "meghalaya-election-2023";
-	public static final String STRAPI_MODEL_TRIPURA_ELECTION_VOTE = "tripura-election-2023";
-	public static final String STRAPI_MODEL_NAGALAND_ELECTION_VOTE = "nagaland-election-2023";
-	
+	public static final String STRAPI_MODEL_MUNUGODE_ELECTION_VOTE = "munugode-election-vote";
+	public static final String STRAPI_MODEL_GUJRAT_ELECTION_VOTE = "gujarat-election-2022";
+	public static final String STRAPI_MODEL_HIMACHAL_ELECTION_VOTE = "himachal-election-2022";
 	public static final String STRAPI_MODEL_CJ_ARTICLE = "cj-articles-2023";
 	public static final String STRAPI_MODEL_CJ_PHOTOGALLERY = "cj-photogalleries-2023";
-	public static final String STRAPI_MODEL_RANKING_DASHBOARD = "ranking-dashboard";
-	
-	//Other Model Objects
-	public static final String MODEL_CATEGORY_LANDING= "Category landing";
-	public static final String MODEL_CATEGORY_LISTING= "Category listing";
-	public static final String MODEL_HOME_PAGE= "Home page";
+
 			
 	//Strapi Category types
 	public static final String STRAPI_CATEGORY_PHOTOGALLERY = "Photogallery";
